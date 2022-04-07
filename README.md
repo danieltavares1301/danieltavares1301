@@ -4,7 +4,7 @@
 
 - 💻 Passionate about web development
 - 🎓 Computer Engineering Student
-- 📚 Studying Node and React
+- 📚 Studying Node, React and AWS 
 - ✉️ My e-mail: daniel.tavares.1301@gmail.com
 
 ###
